@@ -69,9 +69,6 @@ The script generates:
 3. Random Forest Regression Analysis
 4. Results Visualization and Report Generation
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
